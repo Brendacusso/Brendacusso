@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brendacusso
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Vue Js
 - 📫 How to reach me :
 <div style="display: inline_block">
 
