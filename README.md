@@ -7,4 +7,3 @@
 <a src="https://api.whatsapp.com/send/?phone=5547999105171&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/-WhatsApp-lightgreen?style=for-the-badge" target="_blank"></a>
 
 </div>
-😊
